@@ -1,54 +1,37 @@
-# 👨🏻‍💻 Ryan Berg
+# ☕ Ryan Berg
 
-<table>
-  <tr>
-    <td style="border: none; background: transparent; vertical-align: top;">
-      <p><b><code>Estudante de programação | Java Backend</code></b></p>
-      <p>Opa, sou estudante de programação, focado em evoluir cada dia mais no universo Java! ☕</p>
-      <p align="left">
-    <a href="mailto:ryanbergdev@gmail.com" target="_blank">
-        <img 
-            alt="Gmail" 
-            title="Enviar E-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/ryan-berg-581a5029b" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
-    </a>
+<p align="left">
+  <img
+    src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="160px" 
+    align="right"
+    alt="GIF" />
+  <b><code>Estudante de programação | Java Backend</code></b><br><br>
+  Opa, sou o Ryan! Graduando em <b>Ciência da Computação</b> e <b>Análise e Desenvolvimento de Sistemas</b>, como bolsista em ambas as graduações. Atualmente, estou focado no desenvolvimento de aplicações Backend com Java, buscando construir soluções robustas, eficientes e escaláveis. ☕<br><br>
+  <a style="display: inline-block;"
+    href="mailto:ryanbergdev@gmail.com" target="_blank"><img
+      alt="Gmail"
+      title="Enviar E-mail"
+      src="https://custom-icon-badges.demolab.com/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"
+      /></a>&nbsp;&nbsp;<a style="display: inline-block;"
+    href="https://www.linkedin.com/in/ryan-berg-581a5029b" target="_blank"><img
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"
+    /></a>
 </p>
-    </td>
-    <td style="border: none; background: transparent; vertical-align:middle;" align="right" width="35%">
-      <img 
-        src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" 
-        width="180px" 
-        alt="GIF" />
-    </td>
-  </tr>
-</table>
-
-
 
 ---
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias e Ferramentas:
 <p>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GITHUB"/></code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
 </p>
-
-<br>
 
 ---
 
-<br>
 
-📚 Atualmente focado nos estudos de desenvolvimento backend com Java;
-
-☕ Alimentado a café e linhas de código diárias;
-
+🛠️ Aprendendo, construindo e evoluindo um projeto de cada vez;  
+☕ Alimentado a café e linhas de código diárias;  
 🎯 Em busca da primeira oportunidade na área de tecnologia.
